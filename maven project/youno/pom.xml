@@ -71,7 +71,7 @@
 		<configuration>
 			<url>http://localhost:7070/manager/text</url>
 			<server>TomcatServer</server>
-			<path>/youno</path>
+			<path>/pvr</path>
 		</configuration>
 	</plugin>
 
